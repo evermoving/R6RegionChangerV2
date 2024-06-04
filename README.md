@@ -2,11 +2,14 @@
 
 ![Banner](https://i.imgur.com/l0SJ7RL.png)
   
-Small tool to change the datacenter for Tom Clancy's Rainbow Six® Siege. 
-
-Updated by Evermoving for 2024 using up-to-date R6 datacenter codes (e.g. scus -> playfab/southcentralus) 
+Small portable app to change the datacenter for Tom Clancy's Rainbow Six® Siege. Updated by Evermoving for 2024 using up-to-date R6 datacenter codes (e.g. scus -> playfab/southcentralus) 
 
 Originally developed by Passlick Development ([original repository](https://github.com/npasslick/r6regionchanger)). Modified under **GNU/GPLv3** licence (see LICENSE for more details).
+
+## Installation
+
+1. Download R6RegionChangerV2.zip from the Releases section
+2. Run the R6RegionChangerV2 executable 
 
 ## Explanation
 
