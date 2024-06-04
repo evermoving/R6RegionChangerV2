@@ -10,6 +10,7 @@ Originally developed by Passlick Development ([original repository](https://gith
 
 1. Download R6RegionChangerV2.zip from the Releases section
 2. Run the R6RegionChangerV2 executable
+3. Restart the game (if already running) 
 
 ![Banner](https://i.imgur.com/KlipZL3.png)
 
