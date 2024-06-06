@@ -1,8 +1,8 @@
 # R6 Region Changer Tool V2
 
-![Banner](https://i.imgur.com/l0SJ7RL.png)
+![Banner](https://i.imgur.com/KlipZL3.png)
   
-Small portable app to change the datacenter for Tom Clancy's Rainbow Six® Siege. Updated for 2024 using up-to-date R6 datacenter codes (e.g. scus -> playfab/southcentralus) 
+Small portable app to change your matchmaking region for Tom Clancy's Rainbow Six® Siege. Updated for 2024 using up-to-date R6 datacenter codes (e.g. scus -> playfab/southcentralus) 
 
 Originally developed by Passlick Development ([original repository](https://github.com/npasslick/r6regionchanger)). Modified under **GNU/GPLv3** licence (see LICENSE for more details).
 
@@ -11,8 +11,6 @@ Originally developed by Passlick Development ([original repository](https://gith
 1. Download R6RegionChangerV2.zip from the Releases section
 2. Run the R6RegionChangerV2 executable
 3. Restart the game (if already running) 
-
-![Banner](https://i.imgur.com/KlipZL3.png)
 
 ## Explanation
 
